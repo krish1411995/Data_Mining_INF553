@@ -5,6 +5,7 @@ These assignments (except assignement 1) are about building a Yelp Recommendatio
 | Assignments  | Topic | Programming Language  | Framework  | Related Algorithm  |
 |---|---|---|---|---|
 | Assignment 1  | “Stack Overflow 2018 Developer Survey | Scala | Spark  | Map Reduce  |
+| Assignment 2  | Yelp DataSet for Business Ratings | Scala, Python | Spark  | ALS, UserBased CF using Pearson Correlation  |
 
 ## How To Use
 You can find assignments description and source code in each assighment folder
