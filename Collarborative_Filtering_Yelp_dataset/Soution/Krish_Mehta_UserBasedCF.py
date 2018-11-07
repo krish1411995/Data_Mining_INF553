@@ -108,7 +108,7 @@ def getthevalue1(user1,item,trainDataCollectMap1, trainDataBusinessMap_bc1):
                     #print(user1+","+item+","+str(predicted_rating)+"\n")
                     return(user1,item,str(predicted_rating))
                 else:
-                    predicted_rating = (numerator1 / denominator1)/2
+                    predicted_rating = (numerator1 / denominator1)
                     predicted_rating += average_of_current_user
                     if(predicted_rating>5.0):
                         predicted_rating=5.0
