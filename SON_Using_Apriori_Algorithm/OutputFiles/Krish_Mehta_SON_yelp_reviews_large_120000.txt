@@ -1,0 +1,3 @@
+(also),(back),(best),(dont),(even),(food),(friendly),(get),(go),(good),(got),(great),(like),(never),(nice),(one),(place),(really),(service),(staff),(time),(us),(well),(went),(would)
+
+(food,good),(food,place),(food,service)

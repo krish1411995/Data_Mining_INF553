@@ -1,0 +1,3 @@
+(also),(always),(amazing),(back),(best),(came),(could),(definitely),(didnt),(dont),(even),(experience),(first),(food),(friendly),(get),(go),(going),(good),(got),(great),(im),(ive),(like),(love),(much),(never),(nice),(one),(people),(place),(really),(recommend),(service),(staff),(time),(try),(us),(well),(went),(would)
+
+(food,good),(food,great),(food,place),(food,service),(good,place),(good,service),(great,place),(great,service)
